@@ -1,4 +1,4 @@
-# Explanatory articles on software developement concepts.
+# Explanatory articles on software development concepts.
 
 ## Javascript
 
