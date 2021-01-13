@@ -1,4 +1,4 @@
-# Curated list of links to interesting articles on software developement concepts.
+# Explanatory articles on software developement concepts.
 
 ## Javascript
 
