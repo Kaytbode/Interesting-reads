@@ -2,5 +2,7 @@
 
 ## Javascript
 
-1. [Difference between CommonJS modules and EcmaScript modules](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/) 
+1. [Differences between CommonJS modules and EcmaScript modules](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/) 
     by **Lin Clark**
+
+2. [Differences between npm install and npm ci](https://docs.npmjs.com/cli/v6/commands/npm-ci) from **npm docs**
